@@ -1,0 +1,2 @@
+# log.js
+Logging library
